@@ -45,7 +45,3 @@ lock-on-suspend='true'
 [org.gnome.Terminal]
 font='Fira Code Medium 10'
 
-[org.gnome.desktop.interface]
-monospace-font-name='Fira Code Medium 10'
-document-font-name='Fira Sans 11'
-font-name='Fira Sans 9'
