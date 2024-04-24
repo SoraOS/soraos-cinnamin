@@ -14,6 +14,7 @@ titlebar-font='Fira Sans Bold 10'
 name='Arc'
 
 [org.cinnamon]
+desktop-effects='false'
 window-effect-speed='2'
 enable-app-monitoring='false'
 workspace-expo-view-as-grid='true'
