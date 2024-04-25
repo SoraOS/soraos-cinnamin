@@ -1,5 +1,5 @@
 pkgname=soraos-cinnamon
-pkgver=1.2
+pkgver=1.3
 pkgrel=1
 pkgdesc="Cinnamon settings for SoraOS"
 arch=('any')
