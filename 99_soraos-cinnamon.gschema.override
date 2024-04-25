@@ -2,7 +2,7 @@
 picture-uri='file:///usr/share/backgrounds/soraos/1.jpg'
 
 [org.cinnamon.desktop.interface]
-gtk-theme='Arc'
+gtk-theme='vimix-doder'
 icon-theme='Papirus'
 cursor-theme='Adwaita'
 font-name='Fira Sans 9'
@@ -11,7 +11,7 @@ font-name='Fira Sans 9'
 titlebar-font='Fira Sans Bold 10'
 
 [org.cinnamon.theme]
-name='Arc'
+name='vimix-doder'
 
 [org.cinnamon]
 desktop-effects='false'
